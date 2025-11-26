@@ -17,8 +17,14 @@ Projects
 - [AI Teacher](https://github.com/D2199/Ai-teacher.git): <br>AI Teacher is an innovative educational platform leveraging Large Language Models (LLMs) like Cohere to provide structured syllables, engaging explanations, text, Mermaid diagrams, and voice narration.
 - [3D Art Gallery](https://github.com/D2199/3d-Virtual-Art-Gallery.git):<br>
   A captivating 3D virtual art gallery experience built with React Three Fiber for immersive frontend and Django REST Framework for robust backend API.
+- [TrackBook (CRM)](https://github.com/D2199/trackbook):<br> Make an real world Customer Relationship Management for small Business with the
+     <br>Features : Record Sales , Invoice , Manage Invoice ,Maintain Accounts , GST Filling Data , etc
+  <br> Technologies : React , Nodejs , MongoDB , PDF rendering , etc
+- [Bloody (#Game)]() : Create an EndLess Runner Game in the theme of Red Blood Cells in our Body
+   <br> Game Flow : Delivery the oxygen to body parts by overcome the obstacles like Gems , Injections , Mosquito bites  , etc
+  <br> Technologies : Blender for 3D Modeling and Animations , Godot ,etc
 
-<!--
+ <!--
 Stats
 
 - Repositories: [Number]
